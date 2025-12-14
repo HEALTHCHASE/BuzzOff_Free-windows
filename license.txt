@@ -1,0 +1,38 @@
+1. Acceptance of Terms
+By downloading, installing, or using the BuzzOff AI software ("Software"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not use the Software.
+
+2. Description of Service
+BuzzOff AI is a software application designed to block specific AI domains, and data endpoints associated with various forms of Artificial Intelligence (AI) such as data scraping, primarily to protect user privacy and control digital sovereignty.
+
+3. No Guarantees or Warranties
+The Software is provided "AS IS" and "AS AVAILABLE."
+
+We make no warranty that the Software will meet your requirements, be uninterrupted, timely, secure, block all AI, or error-free. The constant evolution of AI technologies means we cannot guarantee that the Software will block all AI-related data collection or processing at all times. The free version does not cover all offline or locally installed AI models.
+
+4. License and Scope of Use
+Grant of License
+The Company grants you a non-exclusive, non-transferable, revocable license to install and use the Software on one PC for your personal or internal business use, subject to these Terms.
+
+Prohibited Uses
+You may not: Resell, lease, or distribute the software; Attempt to reverse-engineer, decompile, or create derivative works; Use the software for any illegal or unethical purpose; Use the software to test or attack other security systems; Bypass, modify, or disable the core blocking functionality.
+
+5. Termination
+Termination by Company
+The Company may terminate this Agreement immediately if you breach any term or condition. This includes (but is not limited to) any attempt to circumvent the software's protective rules or any act of piracy or unauthorised distribution.
+
+Effect of Termination
+Upon termination, you must cease all use of the Software and destroy all copies, in whole or in part, in your possession.
+
+6. Limitation of Liability
+In no event shall the Company be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Software; (ii) any conduct or content of any third party on the Service.
+
+7. Cancelling BuzzOff
+Subscribing as a free or paid subscriber entitles you to receive advisory emails and updates about developments in A.I, including emerging threats and best-practice controls designed to protect you from harmful A.I.
+
+You may opt out of emails at any time using the unsubscribe link provided in our messages and continue to use BuzzOff. We recommend receiving these semi-regular updates, as A.I evolves rapidly.
+
+If you wish to stop using BuzzOff entirely, simply delete the desktop icon and the folder you unzipped. We do not install anything onto your machine. You can then use the “Let Us Know” form to notify us, and we will remove your user ID.
+
+Paid subscribers will have autopayments cancelled effective from the subscription date. Monthly plans cease at the end of the monthly term. Annual plans cease at the end of the annual term (annual plans include a two-month discount on the 12-month subscription). Access will continue until the end of the paid-for period.
+
+No refund is provided for monthly subscriptions cancelled before the end of the subscription term.
